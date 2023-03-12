@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+Cat_Dog.egg-info/PKG-INFO
+Cat_Dog.egg-info/SOURCES.txt
+Cat_Dog.egg-info/dependency_links.txt
+Cat_Dog.egg-info/top_level.txt
+com_in_ineuron_ai_utils/__init__.py
+com_in_ineuron_ai_utils/utils.py
+prediction/__init__.py
+prediction/predict.py
